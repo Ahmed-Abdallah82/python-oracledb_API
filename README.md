@@ -1,5 +1,5 @@
 # python-oracledb_API
-Data analysis using Python (Pandas) on hr sample schema - oracle database 11g by the new python-oracledb API.
+Data analysis using Python (Pandas) on HR sample schema - Oracle database 11g by the new python-oracledb API.
 <br>To install oralcedb API: 
 <br># python -m pip install oracledb --upgrade
 <br>To install Pandas:
