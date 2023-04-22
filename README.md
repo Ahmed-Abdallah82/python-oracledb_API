@@ -1,7 +1,9 @@
 # python-oracledb_API
 Data analysis using Python (Pandas) on hr sample schema - oracle database 11g by the new python-oracledb API.
-<br>To install oralcedb API: python -m pip install oracledb --upgrade
-<br>To install Pandas: pip install pandas
+<br>To install oralcedb API: 
+<br># python -m pip install oracledb --upgrade
+<br>To install Pandas:
+<br># pip install pandas
 <br>Unlike the previous cx-oracle API, pythone-oracledb supports thin mode which not require oracle client installed, but databases before oracle 12c not supported by thin mode.
 <br>To enable thick mode, first you have to install oracle client (If the database on a remote server):
 <br>Download Oracle Instant Client Downloads for Microsoft Windows (x64) 64-bit Basic, Version 11.2.0.4.0 from: https://www.oracle.com/eg/database/technologies/instant-client/winx64-64-downloads.html
